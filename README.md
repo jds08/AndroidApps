@@ -24,7 +24,7 @@ Building Android Apps using Android Studio and Kotlin
 
 ### App Walkthough GIF
 
-<img src="MovieAppGif.gif" width=250><br>
+<img src="MovieApp2Gif.gif" width=250><br>
 
 ### Notes
 
